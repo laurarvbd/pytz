@@ -1,4 +1,6 @@
 # pytz
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flaurarvbd%2Fpytz.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flaurarvbd%2Fpytz?ref=badge_shield)
+
 
 Brings the IANA tz database into Python. This library allows accurate and
 cross platform timezone calculations.
@@ -25,3 +27,7 @@ The maintainers of pytz and thousands of other packages are working with Tidelif
     3) make test
     4) make dist
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flaurarvbd%2Fpytz.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Flaurarvbd%2Fpytz?ref=badge_large)
